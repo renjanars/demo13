@@ -1,2 +1,7 @@
 this is a new branch
+<<<<<<< HEAD
 this is B branch
+=======
+this is A branch
+this new branch created
+>>>>>>> A
